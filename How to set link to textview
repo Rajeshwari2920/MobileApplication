@@ -1,0 +1,11 @@
+# MobileApplication
+Contains  basic works and apps
+/* in values>new resource file   name the file as you wish eg:Strings.xml*/
+
+<resources>
+     <string><u> this text now appers with an line </u></string>
+</resources>
+
+/*in activity.xml or in xml file where you have added the text*/
+
+<android:text="@strings/Strings"/>
